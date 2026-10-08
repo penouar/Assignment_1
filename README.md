@@ -3,8 +3,7 @@
 **GitHub:** [@penouar](https://github.com/penouar)
 
 ## About
-
-I am a Computer Science student interested in cybersecurity and software engineering
+My name is Mohamed Amine Menouer i am interested 
 
 ## Technologies
 
@@ -21,3 +20,7 @@ I am a Computer Science student interested in cybersecurity and software enginee
 ```python
 def hello():
     print("Hello, GitHub!")
+
+## Update
+
+This is an additional update to my project.
