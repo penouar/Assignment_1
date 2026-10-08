@@ -1,0 +1,4 @@
+app.log
+debug.log
+local.env
+!important.log
