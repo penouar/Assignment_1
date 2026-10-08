@@ -15,12 +15,15 @@ My name is Mohamed Amine Menouer i am interested
 - FastAPI
 - Flask
 
+
+## Update
+
+This is an additional update to my project.
+
 ## Example Code
 
 ```python
 def hello():
     print("Hello, GitHub!")
 
-## Update
 
-This is an additional update to my project.
